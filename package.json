@@ -1,15 +1,9 @@
 {
-    "name": "Hello World",
+    "name": "node-app",
     "version": "1.0.0",
-    "description": "Description of your Node.js application",
-    "main": "app.js",
+    "description": "Sample Node.js application",
     "scripts": {
-      "start": "node app.js"
-    },
-    "dependencies": {
-      "express": "^4.17.1",
-      "mongoose": "^6.0.2"
-      // Add your other dependencies here
+      "start": "node server.js"
     }
   }
   
